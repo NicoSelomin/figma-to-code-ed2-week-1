@@ -1,22 +1,5 @@
-@font-face {
-    font-family: "Raleway" ;
-    src: url(../font/Raleway-VariableFont_wght.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 body{
-    font-family: "Raleway" !important;
-}
-
-#hero{
-    width: 75% !important;
-    margin: 0 auto !important;
-}
-
-.titre{
-    font-family: "Raleway", !important;
-    font-weight: 700 !important;
-}
-
-.star{
-    right: 60% !important;
+    font-family: "Raleway", sans-serif;
 }
